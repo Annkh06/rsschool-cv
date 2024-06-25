@@ -14,3 +14,6 @@ At the moment, I am studying at the Belarusian National Technical University wit
 * JavaScript (Basics)
 * GitHub, Git
 *******
+###### Examples code:
+*
+*******
