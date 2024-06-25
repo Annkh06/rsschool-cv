@@ -21,3 +21,8 @@ At the moment, I am studying at the Belarusian National Technical University wit
 1. JavaScript - Полный Курс по JavaScript (Udemy,created by Bogdan Stashcuk)
 2. CSS - Полный Курс по CSS (Udemy,created by Bogdan Stashcuk)
 *****
+######## Languages:
+- Russian (native)
+- Belarussian (native)
+- English (A2)
+*****
