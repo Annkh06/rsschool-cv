@@ -1,7 +1,7 @@
 #Anna Khodosovskaya
 ## Junior Frontend Developer
 [Profile photo](https://goldminesgaming.com/upload/images/gs-image.png)
-*********
+
 ###My contacts:
 - discord: annnkh
 - email: hodosovskaaanna@gmail.com
