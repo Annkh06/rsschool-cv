@@ -16,7 +16,37 @@ At the moment, I am studying at the Belarusian National Technical University wit
 * GitHub, Git
 *******
 ###### Example code:
-*
+```
+const v1 = 7,
+      v2 = 85,
+      v3 = 99,
+      v4 = 150,
+      v5 = 140,
+      v6 = 70;
+function equal1(v1){
+  let a = b =v1,     
+  return a + b;
+}
+function equal2(v2){
+  let a = v2, 
+  let b = 10; 
+  return a - b;
+}
+function equal3(v3){
+  let a = b =v3, 
+  return a * b;
+}
+function equal4(v4){
+  let a = v4, 
+      b = 50; 
+  return a / b;
+}
+function equal5(v5,v6){
+  let a = v5, 
+      b = v6; 
+  return a % b;
+}
+```
 *******
 ####### Work experience:
 - absent
