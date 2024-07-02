@@ -1,21 +1,21 @@
 #Anna Khodosovskaya
 ## Junior Frontend Developer
-[Profile photo](https://goldminesgaming.com/upload/images/gs-image.png)
+[Profile photo](https://avatars.githubusercontent.com/u/152440894?v=4)
 
 ###My contacts:
 - discord: annnkh
 - email: hodosovskaaanna@gmail.com
 - telegram: https://t.me/Anya_Anyya
 - phone number: +375291688718
-*******
+
 ####Briefly about me:
 At the moment, I am studying at the Belarusian National Technical University with a degree in business administration. I love study and learn new things. I am serious about taking this course, so I am sure that I will be able to acquire the necessary knowledge for my further development.
-********
+
 #####Technical skills:
 * HTML, CSS
 * JavaScript (Basics)
 * GitHub, Git
-*******
+
 ###### Example code:
 ```
 const v1 = 7,
@@ -48,16 +48,18 @@ function equal5(v5,v6){
   return a % b;
 }
 ```
-*******
+
 ####### Work experience:
 - absent
-*******
+
+
+
 ######## Courses:
 1. JavaScript - Полный Курс по JavaScript (Udemy,created by Bogdan Stashcuk)
 2. CSS - Полный Курс по CSS (Udemy,created by Bogdan Stashcuk)
-*****
+
 ########Languages:
 - Russian (native)
 - Belarussian (native)
 - English (A2)
-*****
+
