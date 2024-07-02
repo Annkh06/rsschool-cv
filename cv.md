@@ -25,7 +25,7 @@ const v1 = 7,
       v5 = 140,
       v6 = 70;
 function equal1(v1){
-  let a = b =v1,     
+  let a = b =v1,
   return a + b;
 }
 function equal2(v2){
