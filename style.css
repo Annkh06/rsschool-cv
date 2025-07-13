@@ -18,7 +18,6 @@ body {
   align-items: center;
   text-align: justify;
   margin: 0 auto;
-  width: 78%;
   background-color: rgb(183, 240, 240);
 }
 
@@ -129,9 +128,13 @@ text-align: center;
   border: #050505;
 }
 
-.footer-icons {
+.link {
   height: 80%;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+img {
+  width: 50px;
 }
