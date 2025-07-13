@@ -1,5 +1,6 @@
 #Anna Maksimovich
 ## Junior Frontend Developer
+[Profile photo](https://avatars.githubusercontent.com/u/152440894?v=4)
 
 ###My contacts:
 - discord: annnkh
