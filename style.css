@@ -53,7 +53,7 @@ main {
   flex: content;
 }
 
-.section {
+section {
   width: 70%;
   text-align: center;
 }
